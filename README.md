@@ -1,4 +1,4 @@
-A simple end-to-end project that predicts movie box-office revenue from metadata and provides an interactive Tkinter GUI for live predictions.
+This is a simple end-to-end project that predicts movie box-office revenue from metadata and provides an interactive Tkinter GUI for live predictions.
 This repository contains a Jupyter notebook and a stand-alone script version of the pipeline: data cleaning → feature engineering → model training (Random Forest by default) → evaluation → GUI.
 
 ## Contents:
